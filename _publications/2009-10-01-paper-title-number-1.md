@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "AFSBN: A Method of Artificial Fish Swarm Optimizing Bayesian Network for Epistasis Detection"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Liguang Wang#, **Yujia Wang#**, Yi Fu, Yunge Gao, Jiawei Du, Chen Yang, Jianxiao Liu*. AFSBN: A Method of Artificial Fish Swarm Optimizing Bayesian Network for Epistasis Detection, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2019 (SCI, IF=3.702, DOI: 10.1109/TCBB.2019.2949780)'
