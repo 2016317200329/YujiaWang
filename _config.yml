@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Yujia Wang"
-  avatar           : #"pic1.jpg"
+  avatar           : "avatar.png"
   bio              : "Student"
   location         : "Beijing, China"
   employer         :
